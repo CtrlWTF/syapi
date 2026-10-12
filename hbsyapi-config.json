@@ -11,6 +11,5 @@
       "priority": 2
     }
   ],
-  "refresh_hours": 12,
-  "min_app_version": 1
+  "refresh_hours": 12
 }
